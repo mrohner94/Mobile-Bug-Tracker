@@ -1,0 +1,1 @@
+C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Tutorial2.UWP.csproj;x64

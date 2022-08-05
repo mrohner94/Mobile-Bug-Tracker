@@ -1,0 +1,13 @@
+attr;C:\MySource\Tutorial2\Tutorial2\Tutorial2.Droid\obj\Debug\120\lp\6\jl\res\values\attrs.xml
+declare-styleable;C:\MySource\Tutorial2\Tutorial2\Tutorial2.Droid\obj\Debug\120\lp\6\jl\res\values\attrs.xml
+item;C:\MySource\Tutorial2\Tutorial2\Tutorial2.Droid\obj\Debug\120\lp\6\jl\res\values\styles.xml
+item;obj\Debug\120\res\values\styles.xml
+resources;C:\MySource\Tutorial2\Tutorial2\Tutorial2.Droid\obj\Debug\120\lp\6\jl\res\values\attrs.xml
+resources;C:\MySource\Tutorial2\Tutorial2\Tutorial2.Droid\obj\Debug\120\lp\6\jl\res\values\styles.xml
+resources;obj\Debug\120\res\values\resources_resw-strings.xml
+resources;obj\Debug\120\res\values\strings.xml
+resources;obj\Debug\120\res\values\styles.xml
+string;obj\Debug\120\res\values\resources_resw-strings.xml
+string;obj\Debug\120\res\values\strings.xml
+style;C:\MySource\Tutorial2\Tutorial2\Tutorial2.Droid\obj\Debug\120\lp\6\jl\res\values\styles.xml
+style;obj\Debug\120\res\values\styles.xml
