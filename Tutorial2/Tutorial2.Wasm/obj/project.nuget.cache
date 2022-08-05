@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gcYKNaF1gbrHKRwW6NSxhfDScZnzAhvar3G/BTqoxyA51e5AKfOeZLYhpY3UOQiNcWre9kFXmtI7/F/4xis14A==",
+  "dgSpecHash": "8ZNTmDnF3fyhgNVlksvA3gw8EWNrCH2E55uHscMLNTRxzx0mCoGV5cbtFarxer1oJ8qA4kLKJqfcwPrGgykFuQ==",
   "success": true,
-  "projectFilePath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.Wasm\\Tutorial2.Wasm.csproj",
+  "projectFilePath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.Wasm\\Tutorial2.Wasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrohner\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\mrohner\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

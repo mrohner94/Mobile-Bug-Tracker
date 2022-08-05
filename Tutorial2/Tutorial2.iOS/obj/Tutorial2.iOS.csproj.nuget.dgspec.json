@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj": {}
+    "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj": {}
   },
   "projects": {
-    "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj": {
+    "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj",
+        "projectUniqueName": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj",
         "projectName": "Tutorial2",
-        "projectPath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj",
+        "projectPath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj",
         "packagesPath": "C:\\Users\\mrohner\\.nuget\\packages\\",
-        "outputPath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.iOS\\obj\\",
+        "outputPath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

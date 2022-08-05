@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9W4rCyP6fd+oM8wzyDv523+Mz615vffw8DGH736eZkzAzcPkKdDJwsgkoX76JU7eMjLVmhOmhNTIFTTwaVrEnw==",
+  "dgSpecHash": "ynRWG9F6ASR+Kn5NPm2IzlDKjiA3AH8ucwly/QQYX/9webKox4ntFHs8EKy5RL1aGQ7nBOWpZkalsV5Rd2xOMg==",
   "success": true,
-  "projectFilePath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.Droid\\Tutorial2.Droid.csproj",
+  "projectFilePath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.Droid\\Tutorial2.Droid.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrohner\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\mrohner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

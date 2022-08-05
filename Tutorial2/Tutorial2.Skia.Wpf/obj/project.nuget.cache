@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MYde7gLAEHZx+VWH4Wwrxj5wDkQZjcgQLi7/gdL3b8hFpIf8vwsZz5imUmO0WASarA9ELdG/rXdNOtxVnc4ODg==",
+  "dgSpecHash": "6wjsXG6AXWqpztrysbjfJFecSWuDqcwxDU2odROVv0KmxTVYv/ChFMyTdrZCkG6RsH+3ofTKfvQEhx9h4aRATA==",
   "success": true,
-  "projectFilePath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.Skia.Wpf\\Tutorial2.Skia.Wpf.csproj",
+  "projectFilePath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.Skia.Wpf\\Tutorial2.Skia.Wpf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrohner\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\mrohner\\.nuget\\packages\\harfbuzzsharp\\2.8.2.1-preview.79\\harfbuzzsharp.2.8.2.1-preview.79.nupkg.sha512",

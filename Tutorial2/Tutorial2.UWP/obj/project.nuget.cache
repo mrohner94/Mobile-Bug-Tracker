@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0OOxgQ9fn7INWt8jxQgdbv9UXKFZQxHRYFI8c8No0grY3qB3ZXR+tivJ0YCKXkgcBKuEjREOQ+CE+z3roUke6w==",
+  "dgSpecHash": "33wciAF8IFJTAhfyt9b8ya//ADPd7NGYjB4R0DpdWijEgG0YoKaRnhG6QGVQluLwZzZPSjLZipDBO5Xf3lyPuA==",
   "success": true,
-  "projectFilePath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.UWP\\Tutorial2.UWP.csproj",
+  "projectFilePath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.UWP\\Tutorial2.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrohner\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\mrohner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

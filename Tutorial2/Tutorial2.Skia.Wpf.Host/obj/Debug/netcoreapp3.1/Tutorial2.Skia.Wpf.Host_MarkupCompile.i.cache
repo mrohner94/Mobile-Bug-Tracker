@@ -4,17 +4,17 @@
 exe
 C#
 .cs
-C:\MySource\Tutorial2\Tutorial2\Tutorial2.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\
+C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\
 Tutorial2.Skia.Wpf.Host
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;UNO_REFERENCE_API;HAS_UNO_SKIA;HAS_UNO_SKIA_WPF;UNO_REFERENCE_API;HAS_UNO_SKIA;HAS_UNO_SKIA_WPF;HAS_UNO;UNO_HAS_FRAMEWORKELEMENT_MEASUREOVERRIDE;UNO_HAS_NO_IDEPENDENCYOBJECT;UNO_REFERENCE_API
-C:\MySource\Tutorial2\Tutorial2\Tutorial2.Skia.Wpf.Host\App.xaml
+C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.Skia.Wpf.Host\App.xaml
 11407045341
 1-809296145
-8639265824
-2331655055098
+11238758613
+233965085708
 MainWindow.xaml;
 
-True
+False
 

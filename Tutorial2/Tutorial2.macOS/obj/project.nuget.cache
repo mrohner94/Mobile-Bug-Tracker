@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D2LWNbYbHKDbT8dtu+Y/kwg6bUgM+Jk7333NyCugkwFLWd/qH+ij5IydT0GN6hjl/4ox1rDywqjgExZwa4pV1w==",
+  "dgSpecHash": "f6wLtTso5MiOCyXqp5pY275IpqVNfoOQRpgtmQBLYdxSPMTSZg7JTcJWR3lbmHqsdDyCQ9wwiNjfH4yOUXaOcw==",
   "success": true,
-  "projectFilePath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.macOS\\Tutorial2.macOS.csproj",
+  "projectFilePath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.macOS\\Tutorial2.macOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrohner\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\mrohner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

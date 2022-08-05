@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ym0+3MCpt6DH4Dq70QRiJrQgZsYUj+CIU7Ck7gmOQvIhAnlHDllEbK6/NFuO2oi2d2M1syDNxRX8mJ+5hSDYBQ==",
+  "dgSpecHash": "KCzShDE67oGui8ZuFJExrJQfuhMBg2DS+nuPy+/tl1y+EwVPHMCKqTq7PE8cfF42Z27QO245b8j5atLPFOXNcg==",
   "success": true,
-  "projectFilePath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.Skia.Gtk\\Tutorial2.Skia.Gtk.csproj",
+  "projectFilePath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.Skia.Gtk\\Tutorial2.Skia.Gtk.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrohner\\.nuget\\packages\\atksharp\\3.24.24.34\\atksharp.3.24.24.34.nupkg.sha512",
     "C:\\Users\\mrohner\\.nuget\\packages\\cairosharp\\3.24.24.34\\cairosharp.3.24.24.34.nupkg.sha512",

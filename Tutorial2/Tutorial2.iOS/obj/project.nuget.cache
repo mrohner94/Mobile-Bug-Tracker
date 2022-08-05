@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8RUHeUUL6uPZTT6XjIgPl55S9N+UX0O/X0p1lsNG+tAEX65wZWmPb0L11bEj+WE9TOTgQRl4Ov0gOY6ZRC/zZw==",
+  "dgSpecHash": "QqOTdm7QeWPpf5Lih/KRqRTfnC05PtX+7VxNnnvq/i2oC+8J0auf1zt1iqH94dkMNXptAi4mqd9C4rWRCHyPWA==",
   "success": true,
-  "projectFilePath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj",
+  "projectFilePath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.iOS\\Tutorial2.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrohner\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\mrohner\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

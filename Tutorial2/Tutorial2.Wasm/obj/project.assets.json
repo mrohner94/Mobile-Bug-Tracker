@@ -6614,11 +6614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.Wasm\\Tutorial2.Wasm.csproj",
+      "projectUniqueName": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.Wasm\\Tutorial2.Wasm.csproj",
       "projectName": "Tutorial2.Wasm",
-      "projectPath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.Wasm\\Tutorial2.Wasm.csproj",
+      "projectPath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.Wasm\\Tutorial2.Wasm.csproj",
       "packagesPath": "C:\\Users\\mrohner\\.nuget\\packages\\",
-      "outputPath": "C:\\MySource\\Tutorial2\\Tutorial2\\Tutorial2.Wasm\\obj\\",
+      "outputPath": "C:\\MySource\\Mobile-Bug-Tracker\\Tutorial2\\Tutorial2.Wasm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",

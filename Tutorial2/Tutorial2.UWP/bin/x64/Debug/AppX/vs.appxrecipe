@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>1e56ee3e-53d5-447a-ac82-8951b870bc40</PackageIdentityName>
     <PackageIdentityPublisher>CN=mrohner</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>A07BE501F6D237CA43AAD83C66F654EC2711F9017F6592F1C4977264FC4CAD40</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>37c55cca-d22a-4312-9f83-f9d884213737_1.0.0.0_x64__a0frw3hzjprz4</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>37c55cca-d22a-4312-9f83-f9d884213737_a0frw3hzjprz4!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-04T19:20:50.662</Modified>
+      <Modified>2022-08-05T16:08:04.405</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Tutorial2.exe">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Tutorial2.exe">
       <PackagePath>entrypoint\Tutorial2.exe</PackagePath>
-      <Modified>2022-08-04T19:20:44.841</Modified>
+      <Modified>2022-08-05T16:08:02.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mrohner\.nuget\packages\microsoft.web.webview2\1.0.1264.42\build\..\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
       <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
@@ -126,54 +126,54 @@
       <PackagePath>Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml</PackagePath>
       <Modified>2022-06-29T22:07:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2022-08-04T17:13:07.141</Modified>
+      <Modified>2022-08-05T16:06:43.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-04T17:13:07.142</Modified>
+      <Modified>2022-08-05T16:06:43.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-04T17:13:07.142</Modified>
+      <Modified>2022-08-05T16:06:43.934</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-04T17:13:07.143</Modified>
+      <Modified>2022-08-05T16:06:43.934</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-04T17:13:07.143</Modified>
+      <Modified>2022-08-05T16:06:43.935</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-04T17:13:07.144</Modified>
+      <Modified>2022-08-05T16:06:43.935</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-08-04T17:13:07.145</Modified>
+      <Modified>2022-08-05T16:06:43.937</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.Shared\Assets\SharedAssets.md">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.Shared\Assets\SharedAssets.md">
       <PackagePath>Assets\SharedAssets.md</PackagePath>
-      <Modified>2022-08-04T17:13:07.119</Modified>
+      <Modified>2022-08-05T16:06:41.773</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Tutorial2.xr.xml">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Tutorial2.xr.xml">
       <PackagePath>Tutorial2.xr.xml</PackagePath>
-      <Modified>2022-08-04T19:20:44.028</Modified>
+      <Modified>2022-08-05T16:06:44.084</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-08-04T19:20:44.063</Modified>
+      <Modified>2022-08-05T16:08:02.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-08-04T19:20:44.064</Modified>
+      <Modified>2022-08-05T16:08:02.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -187,13 +187,13 @@
       <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2022-07-15T03:26:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-08-04T19:20:45.736</Modified>
+      <Modified>2022-08-05T16:08:03.379</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Core\Tutorial2.exe">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Core\Tutorial2.exe">
       <PackagePath>Tutorial2.exe</PackagePath>
-      <Modified>2022-08-04T19:20:50.654</Modified>
+      <Modified>2022-08-05T16:08:04.398</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

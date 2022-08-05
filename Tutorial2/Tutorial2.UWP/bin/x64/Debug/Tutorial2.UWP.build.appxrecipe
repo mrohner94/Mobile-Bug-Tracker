@@ -10,22 +10,22 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>1e56ee3e-53d5-447a-ac82-8951b870bc40</PackageIdentityName>
     <PackageIdentityPublisher>CN=mrohner</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Tutorial2.exe">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Tutorial2.exe">
       <PackagePath>entrypoint\Tutorial2.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mrohner\.nuget\packages\microsoft.web.webview2\1.0.1264.42\build\..\runtimes\win-x64\native_uap\Microsoft.Web.WebView2.Core.dll">
@@ -94,42 +94,42 @@
     <AppxPackagedFile Include="C:\Users\mrohner\.nuget\packages\uno.ui\4.4.13\lib\UAP\Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml">
       <PackagePath>Uno.UI.Toolkit\Uno.UI.Toolkit.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.Shared\Assets\SharedAssets.md">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.Shared\Assets\SharedAssets.md">
       <PackagePath>Assets\SharedAssets.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Tutorial2.xr.xml">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Tutorial2.xr.xml">
       <PackagePath>Tutorial2.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll">
@@ -141,10 +141,10 @@
     <AppxPackagedFile Include="C:\Users\mrohner\.nuget\packages\microsoft.ui.xaml\2.8.0\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\MySource\Tutorial2\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Core\Tutorial2.exe">
+    <AppxPackagedFile Include="C:\MySource\Mobile-Bug-Tracker\Tutorial2\Tutorial2.UWP\bin\x64\Debug\Core\Tutorial2.exe">
       <PackagePath>Tutorial2.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
